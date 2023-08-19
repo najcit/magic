@@ -1,7 +1,7 @@
 # window.py
 
 # 生成图像化应用程序
-# pyinstaller --onefile --windowed --clean --name window window.py --icon test.png
+# pyinstaller --onefile --windowed --clean --name window window.py --icon logo.ico
 
 if __name__ == '__main__':
     import tkinter as tk

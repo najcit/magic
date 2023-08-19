@@ -1,7 +1,7 @@
 import PyInstaller.__main__
 
 # 图形化应用程序
-# pyinstaller window.py --onefile --clean --noconfirm --name window --icon window.ico --distpath .
+# pyinstaller window.py --onefile --clean --noconfirm --name window --icon logo.ico --distpath .
 PyInstaller.__main__.run([
     'window.py',
     '--onefile',
@@ -9,12 +9,12 @@ PyInstaller.__main__.run([
     '--noconfirm',
     '--windowed',
     '--name=window',
-    '--icon=window.ico',
+    '--icon=logo.ico',
     '--distpath=.'
 ])
 
 # 命令行程序
-# pyinstaller cmdline.py --onefile --clean --noconfirm --name cmdline --icon window.ico --distpath .
+# pyinstaller cmdline.py --onefile --clean --noconfirm --name cmdline --icon logo.ico --distpath .
 PyInstaller.__main__.run([
     'cmdline.py',
     '--onefile',
@@ -22,6 +22,6 @@ PyInstaller.__main__.run([
     '--noconfirm',
     '--console',
     '--name=cmdline',
-    '--icon=cmdline.ico',
+    '--icon=logo.ico',
     '--distpath=.'
 ])
