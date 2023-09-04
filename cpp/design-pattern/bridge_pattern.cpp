@@ -1,7 +1,7 @@
 // bridge_pattern.cpp
 
 // 运行脚本
-// gcc bridge_pattern.cpp -o bridge_pattern && ./bridge_pattern
+// g++ bridge_pattern.cpp -o bridge_pattern && ./bridge_pattern
 
 // 输出结果
 // Concrete Abstraction operation

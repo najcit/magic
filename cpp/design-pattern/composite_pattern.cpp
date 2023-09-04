@@ -1,7 +1,7 @@
 // composite_pattern.cpp
 
 // 运行程序
-// gcc composite_pattern.cpp -o composite_pattern && ./composite_pattern
+// g++ composite_pattern.cpp -o composite_pattern && ./composite_pattern
 
 // 结果输出
 // Composite operation

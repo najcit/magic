@@ -1,7 +1,7 @@
 // builder_pattern.cpp
 
 // 运行程序
-// gcc builder_pattern.cpp -o builder_pattern && builder_pattern
+// g++ builder_pattern.cpp -o builder_pattern && ./builder_pattern
 
 // 结果输出
 // Part 1: Part 1, Part 2: Part 2, Part 3: Part 3

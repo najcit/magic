@@ -1,7 +1,7 @@
 // flyweight_pattern.cpp
 
 // 运行程序
-// gcc flyweight_pattern.cpp -o flyweight_pattern && ./flyweight_pattern
+// g++ flyweight_pattern.cpp -o flyweight_pattern && ./flyweight_pattern
 
 #include <iostream>
 #include <unordered_map>

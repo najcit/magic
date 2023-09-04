@@ -1,9 +1,9 @@
 // singleton_pattern.cpp
 
 // 运行程序
-// gcc singleton_pattern.cpp -o singleton_pattern && ./singleton_pattern
+// g++ singleton_pattern.cpp -o singleton_pattern && ./singleton_pattern
 
-// 输出结果 object值一致即可
+// 输出结果
 // Hello, I am a singleton object: 0x555555558152
 // Hello, I am a singleton object: 0x555555558152
 
