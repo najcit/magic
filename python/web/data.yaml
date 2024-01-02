@@ -1,0 +1,1047 @@
+copyright:
+  content: Copyright©2023-2024
+  icp: 粤ICP备2022500000号-1
+  icp_link: https://beian.miit.gov.cn/
+  link: https://toolsdar.cn
+  powerby: 工具指南
+nav_menus:
+- active: false
+  icon: fa fa-smile-o
+  name: ' 生活娱乐'
+  tags:
+  - active: true
+    link: '#资讯-tab'
+    name: 资讯
+    objects:
+    - description: 人人都是产品经理致力为产品新人、产品经理等广大产品爱好者打造一个良好的学习交流平台。深度剖析国内外互联网业内动态，分享产品设计、交互设计、视觉设计、用户体验设计、产品运营、产品市场和项目管理等专业产品知识。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cud29zaGlwbS5jb20v
+      name: 人人都是产品经理
+    - description: 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9zc3BhaS5jb20v
+      name: 少数派
+    - description: 致力于连接人与信息，让优质丰富的信息得到高效精准的分发，促使信息创造价值。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudG91dGlhby5jb20v
+      name: 今日头条
+    - description: 包含有时政新闻,国内新闻,国际新闻,社会新闻,时事评论,新闻图片,新闻专题,新闻论坛,军事,历史,的专业时事报道门户网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9uZXdzLjE2My5jb20v
+      name: 网易新闻
+    - description: 创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudjJleC5jb20v
+      name: V2EX
+    - description: 虎扑社区以NBA,CBA,足球,中超话题为主,包含F1,网球,NFL等体育内容的讨论,拥有热情而不失理性的良好讨论氛围,提供论坛版块定制等个性化功能
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9iYnMuaHVwdS5jb20v
+      name: 虎扑社区
+    - description: 百度贴吧是中国百度公司旗下的一项社区服务，为用户提供了创建特定主题、参与、管理为中心的讨论区平台。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90aWViYS5iYWlkdS5jb20v
+      name: 百度贴吧
+    - description: 全网热点榜单聚合
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90b3BodWIudG9kYXkv
+      name: 今日热榜
+    - description: 有问题,上知乎。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuemhpaHUuY29tLw%3D%3D
+      name: 知乎
+    - description: 随时随地发现新鲜事
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93ZWliby5jb20v
+      name: 新浪微博
+  - active: false
+    link: '#购物-tab'
+    name: 购物
+    objects:
+    - description: 实时推送优质的网购优惠信息
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuc216ZG0uY29tLw%3D%3D
+      name: 什么值得买
+    - description: 专注特卖的B2C网购平台
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudmlwLmNvbS8%3D
+      name: 唯品会
+    - description: 综合网上购物平台
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuc3VuaW5nLmNvbS8%3D
+      name: 苏宁易购
+    - description: 亚马逊z.cn-国际网购平台
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYW1hem9uLmNuLw%3D%3D
+      name: 亚马逊中国
+    - description: 专业的综合网上购物商城
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuamQuY29tLw%3D%3D
+      name: 京东
+    - description: 理想生活上天猫!
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudG1hbGwuY29tLw%3D%3D
+      name: 天猫
+    - description: 阿里巴巴旗下品牌
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudGFvYmFvLmNvbS8%3D
+      name: 淘宝网
+    - description: 支持淘宝、京东、拼多多优惠查询
+      link: http://aglvl.yhzu.cn/
+      name: 优惠券查询
+  - active: false
+    link: '#生活-tab'
+    name: 生活
+    objects:
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9oaXpkbS5jbi8%3D
+      name: 张大妈工资计算器
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaWZpeGl0LmNvbS8%3D
+      name: iFixit
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9reWZ3LjEyMzA2LmNuL2luZGV4L2luZGV4Lmh0bWw%3D
+      name: '12306'
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9ob3VzZTIwNDguY24vYXBwL2hvdXNlLW1hcC8jLw%3D%3D
+      name: 地图搜租房
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cueGlhY2h1ZmFuZy5jb20v
+      name: 下厨房
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jb29rLnl1bnlvdWp1bi5jbi8%3D
+      name: 隔离食用手册
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jb29rLmFpdXJzLmNvLw%3D%3D
+      name: 程序员做饭指南
+  - active: false
+    link: '#健康-tab'
+    name: 健康
+    objects:
+    - description: MuscleWiki 是一款健身应用程序，拥有全面的锻炼库，其中包括 2000 多个锻炼的视频和书面说明。通过简单直观的身体图指导您进行特定肌肉的锻炼，您可以通过适合初学者、中级和高级健身爱好者的锻炼来简化您的锻炼。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tdXNjbGV3aWtpLmNvbS8%3D
+      name: MuscleWiki
+    - description: 就诊问问，理解你的健康医疗问题，查找全网专业医疗信息。支持疾病、药品、医院、医生等常用医疗场景的搜索查询，致力于提供简洁可信的医疗信息内容。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9hc2subm9jb2RlLmNvbS8%3D
+      name: 就诊问问
+    - description: 默沙东诊疗手册（在美国和加拿大称为默克手册）是医生、学生和消费者的医学参考书的全球标准——自 1899 年至今。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubXNkbWFudWFscy5jbi8%3D
+      name: 默沙东诊疗手册
+    - description: 丁香园用药助手
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kcnVncy5keHkuY24v
+      name: 用药助手
+    - description: 丁香园是面向医生、医疗机构、医药从业者以及生命科学领域人士的专业性社会化网络，提供医学、医疗、药学、生命科学等相关领域的交流平台、专业知识、最新科研进展以及技术服务。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuZHh5LmNuLw%3D%3D
+      name: 丁香园
+  - active: false
+    link: '#摸鱼小游戏-tab'
+    name: 摸鱼小游戏
+    objects:
+    - description: 适合所有人的免费在线游戏：动作、益智、赛车、两人游戏等等。无需下载！在手机或电脑上玩。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95YW5kZXguY29tL2dhbWVzLw%3D%3D
+      name: Yandex Games
+    - description: 汉兜 - 汉字小游戏
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9oYW5kbGUuYW50ZnUubWUv
+      name: 汉兜
+    - description: 打字侠是一款在线中文打字网站,通过优美的界面和合理的学习路线,可以帮助用户快速掌握盲打键盘的指法,提升打字速率。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaGVsbG90eXBpbmcuY29tLw%3D%3D
+      name: 打字侠
+    - description: 在线你画我猜随开随玩，尽可能快地画出并猜出单词！加入全球房间或创建您自己的房间。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9nYXJ0aWMuaW8v
+      name: Gartic.io 你画我猜
+    - description: 在线迷宫小游戏
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tYXplLnRveXMv
+      name: Maze Toys
+    - description: 逻辑益智小游戏
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9maWd1cmUuZ2FtZS96aA%3D%3D
+      name: 谜题282号
+    - description: 这是一个采用机器学习技术制作而成的游戏。当你在屏幕上画图后，神经网络会尝试猜出你画的是什么。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9xdWlja2RyYXcud2l0aGdvb2dsZS5jb20v
+      name: 快速涂鸦
+    - description: 在Poki上，您可以在家或在路上玩免费的在线游戏。Poki拥有最好的在线游戏选择，并提供最有趣的单独或与朋友一起玩的体验。我们支持移动和桌面游戏。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wb2tpLmNvbS8%3D
+      name: Poki
+    - description: Microsoft 官方的一些小游戏，支持在线游玩。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubXNuLmNuL3poLWNuL3BsYXkvYXJjYWRl
+      name: 微软在线小游戏
+    - description: 免费在线益智小游戏
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9rbm90cy5uZXRsaWZ5LmFwcC8%3D
+      name: Neumorphic knot
+    - description: 可以提高打字速度的网站,解决如下打字问题,如何学习打字,如何快速学好打字,如何练习打字指法,如何快速提高打字速度,如何加快打字速度,如何提高打字速度和准确度,怎样快速提高自己的打字速度和正确率
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kYXppZGF6aS5jb20v
+      name: dazidazi
+    - description: 选择一本名著，练习打字
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudHlwZWxpdC5pby8%3D
+      name: TypeLit.io
+    - description: 在线游玩俄罗斯方块
+      link: https://toolsdar.cn/go/?url=aHR0cDovL2ZhcnRlci5jbi90ZXRyLmpzLw%3D%3D
+      name: 加强版俄罗斯方块
+    - description: 在线体验Win11系统，外观和组件的还原程度都很高
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93aW4xMS5ibHVlZWRnZS5tZS8%3D
+      name: Win11网页模拟器
+    - description: 连连看在线版
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9saW5lcy5mcnZyLmNvbS8%3D
+      name: Play Lines FRVR
+    - description: 泛见志是以“娱乐、社会、奇闻、搞笑”等相关轻松、休闲内容为主，集萃大众关注热点，融合了资讯、图片、视频等多种形式的综合娱乐网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaWZhbmppYW4ubmV0Lw%3D%3D
+      name: 泛见志
+    - description: 搞笑GIF分享
+      link: https://toolsdar.cn/go/?url=aHR0cDovL2phbmRhbi5uZXQvcGlj
+      name: 煎蛋
+    - description: 打字练习小游戏，在线游玩
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly96dHkucGUv
+      name: ZType
+    - description: 可随机打开任意一个无聊的网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90aGV1c2VsZXNzd2ViLmNvbS8%3D
+      name: The Useless Web
+    - description: 模拟各种系统升级界面
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9mYWtldXBkYXRlLm5ldC8%3D
+      name: 模拟升级
+    - description: 网页在线扫雷游戏，无限地图，无限生命
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy4xMDAwbWluZXMuY29tLw%3D%3D
+      name: 无限扫雷
+    - description: 虚拟的操作系统
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy53aW5kb3dzOTMubmV0Lw%3D%3D
+      name: Windows 93
+    - description: 在线小说阅读，能打开word模式，伪装成word文档。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95dWVkdS4xNjMuY29tLw%3D%3D
+      name: 网易云阅读
+    - description: 3D 遥控汽车在线网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9icnVuby1zaW1vbi5jb20v
+      name: 遥控小汽车
+- active: false
+  icon: fa fa-road
+  name: ' 资源搜索'
+  tags:
+  - active: true
+    link: '#搜索引擎-tab'
+    name: 搜索引擎
+    objects:
+    - description: DuckDuckGo是一款互联网搜索引擎，其注重用户隐私，及避免个性化检索所致的过滤气泡。它与其他搜索引擎不同的地方在于其不会分析自己的用户、对所有使用同一组关键词的用户显示同样的结果。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8%3D
+      name: DuckDuckGo
+    - description: Yandex是一家俄罗斯互联网企业，旗下的搜索引擎曾在俄国内拥有逾60%的市场占有率，同时也提供其他互联网产品和服务。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95YW5kZXguY29tLw%3D%3D
+      name: Yandex
+    - description: 必应可帮助你将理论付诸实践，使得搜索更加方便快捷，从而达到事半功倍的效果。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jbi5iaW5nLmNvbS8%3D
+      name: 必应
+    - description: 全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYmFpZHUuY29tLw%3D%3D
+      name: 百度
+    - description: Google 搜索世界各地的信息，包括网页、图片、视频等。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3D
+      name: Google
+  - active: false
+    link: '#网盘引擎-tab'
+    name: 网盘引擎
+    objects:
+    - description: ''
+      link: https://kdocs.cn/l/cpvwNxgtjMro
+      name: 夸克网盘资源
+    - description: ''
+      link: https://kdocs.cn/l/clxNDDx3wPAZ
+      name: 阿里云盘资源
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wYW55cS5jb20v
+      name: 盘友圈
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cucGlrYXNvLnRvcC8%3D
+      name: 皮卡搜索
+    - description: 广告较多
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wYW5zZWFyY2gubG9uZzJpY2UuaW8v
+      name: PanSearch
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9hbGkuZ2l0Y2FmZS5pbmsv
+      name: 小纸条
+    - description: 该网站使用需要注册登录，并...
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy54aWFvbWFwYW4uY29tLyMvP2NvZGU9T3RySlZyQnVO
+      name: 小马盘
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wYW4uZnVubGV0dS5jb20vIy8%3D
+      name: 趣盘搜
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9hbGlwYW5zb3UuY29tLw%3D%3D
+      name: 猫狸盘搜
+    - description: 已限制游客使用，目前需登录
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubmljZXNvLm5ldC8%3D
+      name: 奈斯搜索
+    - description: ''
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cueHVlYmFwYW4uY29tLw%3D%3D
+      name: 学霸盘
+    - description: 2022年09月11日 检测失效，移...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95aXNvLmZ1bi8%3D
+      name: 易搜
+  - active: false
+    link: '#资源社区-tab'
+    name: 资源社区
+    objects:
+    - description: 自压1080P无标中字韩剧
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cua2RvY3MuY24vbC9zcWcwWENuUjF4Zlc%3D
+      name: 1080P无标韩剧 TV综合吧
+    - description: 移动云盘小站论坛 移动云盘资源站 移动云盘论坛
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuOTFwYW50YS5jbi8%3D
+      name: 盘Ta
+    - description: 阿里云盘资源共享站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wYW42NjYubmV0Lw%3D%3D
+      name: Pan666
+    - description: 提供阿里云盘资源、影视资源、学习资源、软件资源、动漫资源等分享。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95dW5wYW4xLmNjLw%3D%3D
+      name: 云盘资源分享社区
+- active: false
+  icon: fa fa-cube
+  name: ' 影视视频'
+  tags:
+  - active: true
+    link: '#在线-tab'
+    name: 在线
+    objects:
+    - description: 搜你想看的影片
+      link: https://soupian.pro/
+      name: 搜片
+    - description: ''
+      link: https://toolsdar.cn/go/diaokouhonggg
+      name: 迪奥口红￥95保真
+    - description: 记录美好生活
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuZG91eWluLmNvbS8%3D
+      name: 抖音
+    - description: 豆瓣电影提供最新的电影介绍及评论包括上映影片的影讯查询及购票服务。你可以记录想看、在看和看过的电影电视剧，顺便打分、写影评。根据你的口味，豆瓣电影会推荐好电影给你。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tb3ZpZS5kb3ViYW4uY29tLw%3D%3D
+      name: 豆瓣电影
+    - description: 中国领先的在线视频媒体平台,海量高清视频在线观看
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly92LnFxLmNvbS8%3D
+      name: 腾讯视频
+    - description: 在线视频网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaXFpeWkuY29tLw%3D%3D
+      name: 爱奇艺
+    - description: 阿里巴巴旗下视频平台
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cueW91a3UuY29tLw%3D%3D
+      name: 优酷
+    - description: ''
+      link: https://toolsdar.cn/1791.html
+      name: 🟢看美剧
+    - description: ''
+      link: https://toolsdar.cn/1806.html
+      name: 🧡日韩剧
+    - description: 努力打造为最好的海外热门影视剧在线观看站点
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9qaW9odWIudG9w
+      name: JOJO
+    - description: 画质佳、无广告
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9nYXplLnJ1bi8%3D
+      name: 注视影视
+    - description: 低端影视网站，老域名ddrk.me...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kZHlzLm1vdi8%3D
+      name: 低端影视
+    - description: 画质佳、无广告、自建资源、...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jb2tlbXYubGluay8%3D
+      name: COKEMV影视
+    - description: 不负追剧好时光，高清美剧，韩剧
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubm92aXBub2FkLm5ldC8%3D
+      name: NO视频
+    - description: 有播放前广告、自建资源、画...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYmR5czEwLmNvbS8%3D
+      name: 哔嘀影视
+    - description: 原影视网站已经更改为网盘类...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuZnJlZW9rLnByby8%3D
+      name: FreeOK/追剧也很卷
+    - description: 有时候想找到一些比较稀有的...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jdXBmb3guYXBw
+      name: 茶杯狐
+    - description: 电影先生，热门在线电影网站...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly94bi0tNDRxejg1YTAxcXBjLmNvbS8%3D
+      name: 电影先生
+    - description: 国内可能访问不稳定 有广告...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cucGttcDQueHl6Lw%3D%3D
+      name: 片库
+    - description: 有广告
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuenh6amhkLmNvbS8%3D
+      name: 在线之家
+  - active: false
+    link: '#下载-tab'
+    name: 下载
+    objects:
+    - description: 24美剧频道,为您第一时间提供最新电影电视剧美剧的下载,高清蓝光资源的下载,致力于720P,1080P,4K,蓝光原盘资源的分享,打造最好的高清影视平台
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly8yNHBpbmRhby50di8%3D
+      name: 24美剧
+    - description: 高清电影电视剧下载
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuM2J0MC5jb20v
+      name: 不太灵
+    - description: 美剧天堂(MeiJuTT.TW)是国内一家可在线观看、下载高清美剧的中文美剧网，海量精彩美剧每日更新。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubWVpanV0dC50dy8%3D
+      name: 美剧天堂
+    - description: 免费在线蓝光4K影视资源下载站，提供4K UHD影视、4K电影、4K剧集、4K纪录片、4K演示片和杜比蓝光
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYnVndXR2Lm9yZy8%3D
+      name: 布谷TV
+    - description: 懒鱼看看是中国最大的影视网盘资源聚合搜索引擎，实时聚合全网网盘影视资源，同时支持各大网盘资源下载，电影、电视剧、动漫、综艺应有尽有。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9seWtrLnRvcC8%3D
+      name: 懒鱼看看
+    - description: 4K影视小站是专业的4K影视下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载,4KHDR世界
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly80a3lzeHoudG9wLw%3D%3D
+      name: 4K影视小站
+    - description: 校长影视是电影电视剧爱好者的天堂，为你提供高清电影、韩剧、美剧、日剧、泰剧、香港tvb、百度云电影下载、迅雷电影下载服务，全部高清电影。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly94enlzaGQuY29tLw%3D%3D
+      name: 校长影视
+    - description: 阿里云盘、夸克网盘、百度网盘 资源链接分享
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cucnJkeW5iLmNvbS9pbmRleC5odG1s
+      name: 人人电影网
+    - description: 新剧场收集互联网上热播电视剧，好看电影，最新动漫、综艺等影视和其他类的百度网盘资源，为大家提供一个百度云网盘的免费下载平台，提供各类影视百度网盘资源下载。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cueGluanVjLmNvbS8%3D
+      name: 新剧场
+    - description: BT之家单版社区平台，最快提供 最新 最全 高清 电影、动漫、韩剧、日剧、美剧、无损音乐、体育、小说等BT迅雷下载以及资讯！影视爱好者的聚集地的~BT电影天堂之家
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYnRidHQxNS5jb20v
+      name: BT之家
+    - description: 有广告，支持在线播放和下载，需要注册登录使用。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYnRudWxsLm51
+      name: BTNull 无名小站
+    - description: 追新番，最新日剧番剧日影资源分享，网站内提供最新日剧影视网盘资源。
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy5mYW54aW56aHVpLmNvbS8%3D
+      name: 追新番
+    - description: 专注分享全球4K资源
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuNGtzai5jb20v
+      name: 4K世界
+    - description: 动画,新番,动画,音乐,日剧,下载,BT,BT下载,磁链,迅雷,免费,资源,网盘,百度盘,菲特动漫
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9maXRhY2cuY29tLw%3D%3D
+      name: 菲特动漫
+    - description: 电影港-每天搜集最新的电影，高清电影，720p高清电影，1080p高清电影，的免费下载。专注于高清电影的下载服务。
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy5keWdhbmcuY29tLw%3D%3D
+      name: 电影港
+    - description: 日剧分享
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudG5oem16LmNvbS8%3D
+      name: 东京不够热
+    - description: 字幕组网站是由爱好者成员成立的网站，继续为您翻译最新最快的海外影视剧字幕,美剧,日剧,电影最新字幕下载
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy55eXN1Yi5uZXQv
+      name: YYeTs 人人影视
+    - description: 开源，免费，人人备胎
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95eWV0cy5kbWVzZy5hcHAvc2VhcmNo
+      name: 人人影视分享下载站
+    - description: SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3NlZWRodWIuaW5mby8%3D
+      name: SeedHub
+    - description: 人人影视分级搜索
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly92LmRzYi5pbmsvIy8%3D
+      name: SOZMZ
+    - description: 专注4K蓝光原盘资源
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cueWluZmFucy5tZS8%3D
+      name: 音范丝
+    - description: 目前仅注册登录用户可使用。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9waWFueXVhbi5vcmcv
+      name: 片源网
+    - description: 提供bt种子和磁力链接下载资源
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubWluaTRrLmNvbS8%3D
+      name: 迷客电影
+  - active: false
+    link: '#动漫-tab'
+    name: 动漫
+    objects:
+    - description: 異世界動漫
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubGxkbS5uZXQv
+      name: 異世界動漫
+    - description: 提供最优质的番剧在线观看
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubW9lZnVuLm5ldC8%3D
+      name: Moefun
+    - description: 专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9iYW5ndW1pLnR2Lw%3D%3D
+      name: Bangumi 番组计划
+    - description: 異世界動漫
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuZ3FkbS5uZXQv
+      name: 異世界動漫
+    - description: 动画,新番,动画,音乐,日剧,下载,BT,BT下载,磁链,迅雷,免费,资源,网盘,百度盘,菲特动漫
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9maXRhY2cuY29tLw%3D%3D
+      name: 菲特动漫
+    - description: 双辞动漫专注于资源收集整理 海量的有效的高质量的动漫，资源下载，最新电影，观看完全免费、高速播放、更新及时在线，我们致力为所有动漫迷们提供最好看的动漫
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubnlhZnVuLm5ldC8%3D
+      name: 双辞动漫
+    - description: AGE动漫专注于资源收集整理 海量的有效的高质量的动漫资源下载 动漫百度网盘下载
+      link: https://toolsdar.cn/go/?url=aHR0cDovL2FnZWRtMS5jb20v
+      name: AGE动漫
+    - description: 无广告免注册即可在线观看的在线弹幕动漫资源网AnFuns
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYW5mdW5zLmNj
+      name: AnFuns动漫
+    - description: 动漫岛为大家提供新番连载大量完结日漫热门国漫剧场动漫等动漫的在线观看这里有最新好看的日本动漫大全也动漫迷的秘密岛屿！
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy5kbWQ4NS5jb20v
+      name: 动漫岛
+    - description: 克拉TV-以动漫为主的影视免费在线观看网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cua2VsYXR2LmNvbS8%3D
+      name: 克拉TV
+    - description: 爱恋BT分享站，动画～漫画～游戏～动漫音乐～片源（RAW）～各类ACG资源聚集地～欢迎各大佬发布入住！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cua2lzc3N1Yi5vcmcv
+      name: 爱恋动漫BT下载
+    - description: 方便快捷的版权动画播放地址聚合站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9iZ21saXN0LmNvbQ%3D%3D
+      name: 番组放送
+    - description: 哔咪动漫,哔咪哔咪,故被网友称为m站以及bimibimi，无论您喜欢那种类型，哔咪哔咪都会筛选经典作品并将新作经典轮番推荐，相信哔咪哔咪都能为您一网打尽，为您带来一场美妙的动漫盛宴，这里是兴趣使然的无名小站。
+      link: https://toolsdar.cn/go/?url=aHR0cDovL2FwcC5kb2RvZ2UubWUv
+      name: M站
+    - description: 兴趣使然的无名小站
+      link: https://toolsdar.cn/go/?url=aHR0cDovL2RpbGlkaWxpMS5jb20v
+      name: 嘀哩嘀哩
+    - description: 致力于为每一个人带来欢乐
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYW5mdW5zLmNjLw%3D%3D
+      name: Acfuns动漫
+    - description: 国内知名弹幕网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tLw%3D%3D
+      name: 哔哩哔哩
+  - active: false
+    link: '#直播-tab'
+    name: 直播
+    objects:
+    - description: 免费看高清NBA直播、NFL橄榄球直播、足球直播、台球直播、CBA、欧冠意甲西甲直播同时还有国家健美冠军直播健身教你减肥练出好身材，更有高颜值美女主播解说体育赛事。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9saXZlLnFxLmNvbS8%3D
+      name: 企鹅直播
+    - description: iPanda熊猫频道面向全球网民打造极具吸引力的熊猫主题新媒体集群。通过熊猫向世界传播和平、友爱理念，提升国家形象。iPanda熊猫频道对大熊猫繁育、日常起居等的情况进行24小时近距离视频直播及点播，并通过社交媒体、移动终端等用中、英进行全媒体传播。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaXBhbmRhLmNvbS8%3D
+      name: iPanda熊猫频道
+    - description: CCTV节目官网_央视网
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90di5jY3R2LmNvbS9saXZlLw%3D%3D
+      name: CCTV直播
+    - description: 每个人的直播平台提供高清、快捷、流畅的视频直播和游戏赛事直播服务，包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种名家大神游戏直播
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy5kb3V5dS5jb20v
+      name: 斗鱼
+    - description: 虎牙直播是以游戏直播为主的弹幕式互动直播平台，累计注册用户2亿，提供热门游戏直播、电竞赛事直播与游戏赛事直播，手游直播等。包含英雄联盟lol，王者荣耀，绝地求生，和平精英等游戏直播，lol、dota2、dnf等热门游戏直播以及单机游戏、手游等游戏直播。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaHV5YS5jb20v
+      name: 虎牙直播
+    - description: JRS低调看球全程为你提供NBA直播,CBA直播,西甲直播,英超直播,欧冠直播,中超直播,世界杯直播等高清无插件JRS直播信号，JRS低调看直播就上JRS低调看球
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kZGthbnFpdS5uZXQv
+      name: JRS低调看球
+    - description: 提供在线网络电视直播的网站
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy50dnlhbi5jb20v
+      name: 电视眼
+  - active: false
+    link: '#字幕组-tab'
+    name: 字幕组
+    objects:
+    - description: 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9hc3NydC5uZXQv
+      name: 伪射手网
+    - description: 完全免费，是一个集原创或搬运的同人小说和影视资源的分享交流平台！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95d3Ryem16Lm5ldC8%3D
+      name: 亿万同人字幕组
+    - description: 动画,新番,动画,音乐,日剧,下载,BT,BT下载,磁链,迅雷,免费,资源,网盘,百度盘,菲特动漫
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9maXRhY2cuY29tLw%3D%3D
+      name: 菲特动漫
+    - description: TVBT菊花台
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy5teXR2YnQubmV0Lw%3D%3D
+      name: 日菁字幕组
+    - description: 冰冰字幕组 ice字幕组 英剧排行 最新英剧下载 英剧字幕 英剧在线观看
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaWNlem16LmNvbS8%3D
+      name: 冰冰字幕组
+    - description: 专注于海外剧集经典老剧压制
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90LXJleC50emZpbGUuY29tLw%3D%3D
+      name: 霸王龙压制组
+    - description: 专注哆啦A梦动漫番剧翻译制作
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tbHN1Yi5uZXQ%3D
+      name: 梦蓝字幕组
+    - description: 多种语言的电影和电视字幕，每天上传数千个翻译字幕。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cub3BlbnN1YnRpdGxlcy5vcmcvemg%3D
+      name: Subtitles
+    - description: 目下最全的字幕网站之一
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9zdWJoZC50di8%3D
+      name: SubHD
+    - description: 诸神字幕组 - 诸神字幕组官方发布站..
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9zdWJzLmthbWlnYW1pLm9yZy8%3D
+      name: 诸神字幕组
+    - description: 为您网罗最新最热的美剧资讯！为您提供最优质的字幕翻译！
+      link: https://toolsdar.cn/go/?url=aHR0cDovL25ld3ptei5jb20vaW5kZXguaHRtbA%3D%3D
+      name: NEW字幕组
+    - description: 微博译制视频博主
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93ZWliby5jb20vdS81NTIyMzg3NjMyP2lzX2hvdD0x
+      name: 远鉴字幕组
+    - description: 海外剧字幕翻译
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3dhbndhbnN1Yi5jb20v
+      name: 弯弯字幕组
+    - description: 做国内最好的字幕组
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuemltdXhpYS5jbi8%3D
+      name: FIX字幕侠
+    - description: 字幕库(zimuku) -- 字幕下载网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly96bWsucHcv
+      name: 字幕库
+    - description: 主要为纪录片资源翻译
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93ZWliby5jb20vcC8xMDA1MDU1ODM3NTEzNjY4
+      name: 纪录片之家字幕组
+    - description: 专注泰剧译制
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93ZWliby5jb20vdS83MzUxNzcyNzg3
+      name: 天府泰剧字幕组
+    - description: 不定期发布日韩电影电视剧、综艺视频资源
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy5zaGVuYmliaS5jb20v
+      name: 神叨字幕组
+    - description: 微博@小玩剧，韩剧译制
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93ZWliby5jb20vcGxheWRyYW1h
+      name: 小玩剧
+  - active: false
+    link: '#纪录片-tab'
+    name: 纪录片
+    objects:
+    - description: CCTV-9纪录频道直播页提供CCTV-9纪录频道24小时高清直播信号，是网民全天候收看CCTV-9的最佳平台。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90di5jY3R2LmNvbS9jY3R2OS8%3D
+      name: CCTV-9记录频道
+    - description: 哔哩哔哩纪录片，bilibili是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL2RvY3VtZW50YXJ5Lw%3D%3D
+      name: 哔哩哔哩纪录片
+    - description: 芒果TV纪录片频道。芒果TV-大家都在看的在线视频网站-热门综艺最新电影电视剧在线观看
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubWd0di5jb20vZG9jLw%3D%3D
+      name: 芒果TV纪录片频道
+    - description: 西瓜视频纪录片频道是专业的纪录片视频平台，画面清晰、播放流畅，内容丰富，为您提供海量高清纪录片，热门纪录片排行榜，热门纪录片在线观看
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaXhpZ3VhLmNvbS9jaGFubmVsL2ppbHVwaWFuLw%3D%3D
+      name: 西瓜视频纪录片频道
+    - description: 爱奇艺纪录片频道拥有大量的高清正版纪录片，包含人物军事、历史、探索、文化、社会、科学、旅游、真人秀、政治等纪录片类型。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaXFpeWkuY29tL2ppbHVwaWFuLw%3D%3D
+      name: 爱奇艺纪录片频道
+    - description: 腾讯视频纪录片频道。腾讯视频 - 中国领先的在线视频媒体平台,海量高清视频在线观看
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly92LnFxLmNvbS9jaGFubmVsL2RvY28%3D
+      name: 腾讯视频纪录片频道
+    - description: 视频服务平台,提供视频播放,视频发布,视频搜索,视频分享
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9qaWx1cGlhbi55b3VrdS5jb20v
+      name: 优酷纪录片频道
+    - description: 主要为纪录片资源翻译
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93ZWliby5jb20vcC8xMDA1MDU1ODM3NTEzNjY4
+      name: 纪录片之家字幕组
+- active: false
+  icon: fa fa-anchor
+  name: ' 实用工具'
+  tags:
+  - active: true
+    link: '#网盘传输-tab'
+    name: 网盘传输
+    objects:
+    - description: 悟空快传是一款不限速,不限制文件大小高效率的文件在线接收存储工具!悟空快传有以下特点不限速,免注册,单文件上传最大支持20G,支持文件分享,支持密码保护,支持批量上传,可以设置失效时间,内容自动销毁,支持向多人分享文件
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93a2tjLnZpcC8%3D
+      name: 悟空快传
+    - description: 百度推出的一项云存储服务
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wYW4uYmFpZHUuY29tLw%3D%3D
+      name: 百度网盘
+    - description: 阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYWxpeXVuZHJpdmUuY29tLw%3D%3D
+      name: 阿里云盘
+    - description: 夸克网盘是夸克推出的一款云服务产品，功能包括云存储、高清看剧、文件在线解压、PDF一键转换等。通过夸克网盘可随时随地管理和使用照片、文档、手机资料，目前支持Android、iOS、PC、iPad。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wYW4ucXVhcmsuY24vcy84ODA4MWZkYzUzYjQ%3D
+      name: 夸克网盘
+    - description: 不限速的免费文件存储
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubGFuem91LmNvbS8%3D
+      name: 蓝奏云
+    - description: 免登录下载，一键下载分享文件
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuMTIzcGFuLmNvbS9sb2dpbg%3D%3D
+      name: 123云盘
+    - description: 中国电信旗下网盘
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jbG91ZC4xODkuY24v
+      name: 天翼云
+    - description: 上传下载不限速，支持在线存储、下载、分享文件。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuZmVpamlwYW4uY29tL2QvM2RjMTUyOWZiOGFhYTc1YWEzNWZlNDBlMzM5ZmU2OWE%3D
+      name: 小飞机网盘
+    - description: 云存储产品
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly8xMTUuY29tLw%3D%3D
+      name: 115网盘
+    - description: 跨设备文件传输助手，无需安装，使用浏览器跨平台互相发送文件。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9qaWRyb3AuY29tLw%3D%3D
+      name: JiDrop
+    - description: 大文件、永不限速
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cud2Vuc2h1c2h1LmNuLw%3D%3D
+      name: 文叔叔
+    - description: 随时随地实现文件共享
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuamlhbmd1b3l1bi5jb20v
+      name: 坚果云
+    - description: 好用方便的文件中转站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90bXAubGluay8%3D
+      name: 钛盘
+    - description: 免费在线文件传输工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9maWxlZG9nZS5jb20v
+      name: File Doge
+    - description: 文件同步、备份和分享功能的云存储应用
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cud2VpeXVuLmNvbS8%3D
+      name: 腾讯微云
+    - description: 无需登录即可完成文件传输，10GB文件上传下载不限速、免费用，MuseTransfer文件传输工具就是快！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tdXNldHJhbnNmZXIuY29tLw%3D%3D
+      name: MUSE
+    - description: pc电脑手机文件互传
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9sYW5jb3B5LmJhbmduaW1hbmcubmV0Lw%3D%3D
+      name: 电脑手机互传
+    - description: 文件下载不限速
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jb3d0cmFuc2Zlci5jb20v
+      name: 奶牛快传
+    - description: 随时随地跨设备传输文件
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9haXJwb3J0YWwuY24v
+      name: AirPortal 空投
+    - description: 在线文件传输工具。无需登录即可使用
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kZWVyc2hhcmUuY29tL3NlbmQ%3D
+      name: 小鹿快传
+    - description: 免登陆上传下载文件 你的随时云U盘
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3Fpbmd3ZW5kYW5nLmNvbS8%3D
+      name: 轻文档
+    - description: 轻量级跨平台文件分享工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jcC5hbnlrbmV3LmNvbQ%3D%3D
+      name: 拷贝兔
+    - description: 安全便捷的电脑/手机互连，点对点文件传送、云剪贴板、屏幕共享、可视化交流
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cucHB6aGlsaWFuLmNvbS8%3D
+      name: 皮皮直连
+  - active: false
+    link: '#图片处理-tab'
+    name: 图片处理
+    objects:
+    - description: 【合集】证件照制作工具
+      link: https://toolsdar.cn/6345.html
+      name: 证件照制作
+    - description: 证件照大师是一个专业的证件照在线处理网站，提供证件照换底色，证件照质量压缩，证件照合成等证件照处理，操作简单便捷，让证件照处理更简单。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9pZC1waG90by5jbi8%3D
+      name: 证件照大师
+    - description: 使用我们的开源应用程序免费创建专业的证件照片。在浏览器本地运行，确保隐私，不存在任何数据泄露的风险。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9pZGlmeS5uZXRsaWZ5LmFwcC8%3D
+      name: IDIFY
+    - description: 鸭力巨大(www.yalijuda.com)是一款完全免费的在线图片/视频压缩工具，无需下载任何软件、即用即走，致力于为大家提供方便、好用的压缩服务。目前鸭力巨大支持的图片格式有PNG、JPG、GIF，支持的视频格式有MP4、avi、mov等，提供3种压缩模式，能够满足大多数用户的日常需求：
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cueWFsaWp1ZGEuY29tLw%3D%3D
+      name: 鸭力巨大
+    - description: 珍彩证件照官网,最美证件照制作换底色,红底证件照，蓝底证件照，一寸照，二寸照，教师资格证，四六级，计算机等考试报名照
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly96aGVuZ2ppYW56aGFvLmNvbS8%3D
+      name: 珍彩证件照
+    - description: Gifntext 是一款功能强大、在线、免费的 gif 编辑器，没有强制水印。在 gif 上快速添加移动文本、向 gif 添加移动图像等等。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuZ2lmbnRleHQuY29tLw%3D%3D
+      name: Gifntext动图制作
+    - description: Mr.Doge提供的公共图片托管服务
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9qcGcuZG9nLw%3D%3D
+      name: jpg.dog
+    - description: 在本地浏览器中自动删除图像背景，无需数据传输，无隐私问题。免费且安全地从图像中删除背景
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tYWdpY2JhY2tncm91bmRyZW1vdmVyLmNvbS8%3D
+      name: MagicBackgroundRemover
+    - description: 在线截图美化工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9zaG90cy5zby8%3D
+      name: Shots
+    - description: 直接在浏览器中轻松地从图像中删除背景，无需额外费用和隐私问题。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9pbWcubHkvc2hvd2Nhc2VzL2Nlc2RrL3dlYi9iYWNrZ3JvdW5kLXJlbW92YWwvd2Vi
+      name: IMG.LY 背景去除
+    - description: 腾讯ARC实验室推出的AI人像修复、抠图和增强工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9hcmMudGVuY2VudC5jb20vemgvYWktZGVtb3MvZmFjZVJlc3RvcmF0aW9u
+      name: ARC官网
+    - description: AI帮你做设计
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kZXNpZ24ubWVpdHUuY29t
+      name: 美图设计室
+    - description: 上传产品图，AI生成海量场景图
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kZXNpZ24ubWVpdHUuY29tL3Byb2R1Y3Qtc2hvb3QvP2Zyb209aG9tZQ%3D%3D
+      name: AI一键商品图
+    - description: 快速轻松地将 JPEG 和 PNG 位图转换为 SVG 矢量
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly92ZWN0b3JpemVyLmFpLw%3D%3D
+      name: Vectorizer
+    - description: 简单图床EasyImage是一款支持多文件上传的无数据库图床,可以完美替代PHP多图上传程序,最新html5自适应页面兼容手机电脑,上传后返回图片直链,markdown图片,论坛贴图bbscode链接,简单方便支持一键复制,支持多域名,api上传
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wbmcuY20v
+      name: 简单图床
+    - description: 聚合图床是一个提供高速外链的免费图床，无限流量，无限外链，全球网络加速，提供API和客户端上传图片，专业的跨境电商图片上传和托管，适合亚马逊,
+        wish, ebay, shopify, 速卖通等电商批量上传图片
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuc3VwZXJiZWQuY24v
+      name: 聚合图床
+    - description: Nero AI 立即放大您的图像！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9haS5uZXJvLmNvbS9pbWFnZS11cHNjYWxlcg%3D%3D
+      name: Nero AI
+    - description: 惊人的照片橡皮擦，上传图片后几秒内帮你擦除不需要元素。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaGFtYS5hcHAvemg%3D
+      name: Hama
+    - description: 背景自动去除、白色背景、背景模糊、魔术擦除
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cucGhvdG9yb29tLmNvbS9iYWNrZ3JvdW5kLXJlbW92ZXI%3D
+      name: PhotoRoom
+    - description: 星辰图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9pbWdtby5jb20%3D
+      name: 星辰图床
+    - description: 有旧的和模糊的面部照片吗？让我们的 AI 恢复它们，让这些记忆得以延续。100% 免费 – 立即恢复您的照片。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cucmVzdG9yZXBob3Rvcy5pby8%3D
+      name: Face Photo Restorer
+    - description: 使用我们的人工智能工具将您的图像升级到2倍或4倍，而不会丢失任何纹理或细节。使用我们的超分辨率工具，为您的图像带来新的活力。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudXBzY2FsZS5tZWRpYS96aA%3D%3D
+      name: Upscaler
+    - description: 使用我们的在线图像到像素艺术转换器，快速轻松地将您的图像转换为像素艺术。只需上传您的图像并选择您的像素化级别，即可将您的照片转换为复古风格的像素艺术杰作。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cucGl4ZWxpY2lvdXMueHl6Lw%3D%3D
+      name: Pixelicious
+    - description: 国外一款集图片&amp;视频处理的在线网站，可提供批量抠图、去水印、视频抠图、一键生成漫画、视频转漫画、图像修复、视频转漫画、AI绘画等功能。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuY3V0b3V0LnByby8%3D
+      name: cutout.pro
+  - active: false
+    link: '#格式转换-tab'
+    name: 格式转换
+    objects:
+    - description: PDF转Word在线免费转换工具HiPDF，是A股上市公司万兴科技旗下实力产品，是一款完全免费的PDF在线编辑工具。文档转换精确率高，可以免费将PDF转Word，还有PDF在线压缩、PDF合并、图片转PDF格式等多种功能，能满足不同的需求。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaGlwZGYuY24v
+      name: HiPDF
+    - description: 将文件从一种格式转换为另一种格式，例如 Word 转换为 PDF、PDF 转换为 JPG、EPUB 转换为 MOBI、WEBP
+        转换为 JPG、SVG 转换为 PNG、MOV 转换为 MP4、MP4 转换为 MP3、M4A 转换为 MP3。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jZGttLmNvbS9jbi8%3D
+      name: CDKM 在线文件转换器
+    - description: AnyConv 是一款免费的在线工具，用于将文件从一种格式转换为另一种格式。它支持 400 多种格式。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9hbnljb252LmNvbS8%3D
+      name: AnyConv 文件转换器
+    - description: 在线转换各类PDF，文档，电子书，图像，图标，视频，音频和压缩文件。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYWNvbnZlcnQuY29tL2NuLw%3D%3D
+      name: Aconvert
+    - description: 免费的AI写作，PDF，图像和其他在线工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90aW55d293LmNvbS8%3D
+      name: TinyWow
+    - description: 在线音频、视频、图片、文档等格式转换
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jb252ZXJ0aW8uY28vemgv
+      name: Convertio
+    - description: 拥有27款PDF工具，包括PDF合并、分割PDF、PDF压缩……
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90b29scy5wZGYyNC5vcmcvemgv
+      name: PDF24 Tools
+    - description: PDF转Word 免费PDF转化 免费在线格式转换工具 免费在线转换工具 免费视频在线转换 免费音频在线转换 免费在线转换
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYWxsdG9hbGwubmV0Lw%3D%3D
+      name: ALL TO ALL
+    - description: 几十个强大的PDF在线工具，无需注册会员，永久免费！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuY2xldmVycGRmLmNvbS9jbg%3D%3D
+      name: CleverPDF
+    - description: 在线PDF转换器
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly94cGRmLm5ldC8%3D
+      name: 超级PDF
+    - description: 在线PDF转换编辑器
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9lYXN5cGRmLmNvbS9jbg%3D%3D
+      name: EasyPDF
+    - description: 免费PDF处理工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaWxvdmVwZGYuY29tL3poLWNu
+      name: iLovePDF
+    - description: 好用的在线PDF工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9zbWFsbHBkZi5jb20v
+      name: SmallPDF
+  - active: false
+    link: '#音视频处理-tab'
+    name: 音视频处理
+    objects:
+    - description: 这是一个在线、免费的视频压缩工具。您可以将视频剪切和压缩到您想要的大小，并尽量保持视频的质量。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jb21wcmVzcy12aWRlby1vbmxpbmUuY29tL3po
+      name: Compress Video Online
+    - description: 视频背景删除，删除任何视频的背景 - 100% 自动、在线且免费！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudW5zY3JlZW4uY29tLw%3D%3D
+      name: Unscreen
+    - description: 爱幕是一个在线免费字幕编辑器, 支持语音识别, 字幕样式, 字幕翻译, 双语字幕, 字幕转语音, 字幕转格式, 搬运YouTbe视频,
+        在线转码视频, 在线压制字幕...
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9vbmxpbmUuYWltdS1hcHAuY29tLw%3D%3D
+      name: 爱幕
+    - description: 在线批量解析TikTok/抖音视频和图片，支持无水印下载，官方数据接口，稳定，开源，免费，无广告。| Online batch
+        parsing of TikTok/Douyin videos and pictures, support for no watermark download,
+        official data interface, stable, open source, free, no ads.
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kb3V5aW4ud3RmLw%3D%3D
+      name: Douyin/TikTok 解析下载
+    - description: 面向专业人士的在线视频套件。在云端录制和编辑您的视频。我们帮助您扩展品牌、频道或视频博客。免费试用。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudmVlZC5pby8%3D
+      name: Veed
+    - description: VideoFK 是一个转换器（conconver）和下载器，可以处理从Videofk 到高清质量的 Mp3、Mp4 的视频。
+        Videofk 支持下载所有视频格式，如：MP4、M4V、3GP、WMV、FLV、MO、MP3、WEBM 等。您可以轻松地从Videofk 和其他网站免费下载数千个视频。您可以在桌面上访问它
+        个人电脑、智能手机（Android、iPhone）、iPad 和平板电脑。 并将视频保存为最高质量的高清 MP4 或 MP3。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudmlkZW9may5jb20vemgtQ04zMjUy
+      name: VideoFK
+    - description: TiKDD.cc是专业的抖音无水印视频下载网站，不仅支持中国大陆版抖音，也支持抖音国际版Tiktok。不需要安装任何软件或者APP,只需要视频链接就可以轻松把视
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudGlrZGQuY2MvemgtSGFucy8%3D
+      name: TikDD
+    - description: Youtube 视频下载，支持1080p,2k,4k视频下载
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9yaXB5b3V0dWJlLmNvbS8%3D
+      name: RipYoutube
+    - description: Video Downloader Pro - DmSave 是一款免费的在线视频下载器。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kbXNhdmUudG9wLw%3D%3D
+      name: DmSave
+    - description: 快速录屏，一键分享，团队协作。您可以同时录制视频、摄像头和音频；通过链接立即分享录屏；画笔批注录屏；发表评论；将视频保存到本地等。现在下载
+        好录进行免费录屏，没有广告，没有录屏时间限制！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuaGFvbHUuY29tL3poX0NO
+      name: 好录
+    - description: 腾讯旗下智能创作平台,在线视频协同生产,提供创意营销、云端审片、在线剪辑、直播推流等视频生产全链路能力,引领高效视频生产新方式
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly92LnRlbmNlbnQuY29tLw%3D%3D
+      name: 腾讯智能创作平台
+    - description: AI视频创作平台，图文转视频，智能剪辑，一键输出
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9haWdjLnlpemhlbnR2LmNvbS8%2FX2Y9Z2pkcg%3D%3D
+      name: 一帧秒创
+    - description: 免费的网页版视频编辑器、共享和管理内容、在线审片，让创作和团队合作更简单
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuY2FwY3V0LmNuL3dlYg%3D%3D
+      name: 剪映网页版
+    - description: 在线音频工作站,让音频编辑更轻松
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cueGF1ZGlvcHJvLmNvbS9jbi8%3D
+      name: XAudioPro
+    - description: 9xbuddy可帮助您轻松下载来自YouTube，Twitter，Facebook，Dailymotion等的网站的视频。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly85eGJ1ZGR5Lnh5ei96aC0xYmM%3D
+      name: 9xbuddy
+    - description: 从任何音频中提取人声、伴奏和其他的音轨 基于世界上最为先进人工智能技术的高质量轨分离工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubGFsYWwuYWkvemgtaGFucy8%2FZnBfcmVmPWNoZW4yMQ%3D%3D
+      name: LALAL
+    - description: 致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuNjd0b29sLmNvbS8%3D
+      name: 即时工具
+    - description: 智影是一个集素材搜集、视频剪辑、后期包装、渲染导出和发布于一体的免费在线剪辑平台，能够为用户提供从端到端的一站式视频剪辑及制作服务。丰富的内容资源和强大的智能工具，能够帮助用户高效完成视频剪辑、文章转视频、智能去水印、文本转语音等操作，通过智能工具提升在线视频制作效能
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly96ZW52aWRlby5xcS5jb20v
+      name: 智影
+    - description: onvideo快手云剪，提供强大免费的视频剪辑编辑软件、海量视频、图片、音频版权素材，帮助大型机构、企业、媒体机构、自媒体以及普通用户高效完成视频内容制作，提供在线视频编辑、视频编辑、视频封面制作、视频去抖、视频抠像、直播剪辑、云端素材库、智能语音转字幕、智能字幕转语音、团队协同、媒资管理、资源共享、团队内容审核、视频制作完成快速内容分发、一键发布到快手等功能。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9vbnZpZGVvLmt1YWlzaG91LmNvbS8%3D
+      name: 快手云剪
+    - description: 视频在线解析下载
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90b29sLmx1L3ZpZGVvcGFyc2VyLw%3D%3D
+      name: 视频解析
+    - description: 在线视频下载工具， Youtube 视频的免费在线服务！快速轻松地从 Vimeo、Facebook 和 Dailymotion
+        等网站上下载视频！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly96aC5zYXZlZnJvbS5uZXQvNw%3D%3D
+      name: Savefrom
+    - description: 解析YouTube、Facebook等国外的主流视频网站，支持支持2K，4K，8K视频解析下载。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudmlkZW9zb2xvLmNvbS96aC1DTi9vbmxpbmUtdmlkZW8tZG93bmxvYWRlci8%3D
+      name: Videosolo
+    - description: 视频解析下载，支持国内外将近1000多个视频网站
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly92Z2V0Lnh5ei8%2FbGFuZz16aA%3D%3D
+      name: Vget
+    - description: 在线视频解析工具，支持下载和在线播放。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wdi52bG9nZG93bmxvYWRlci5jb20v
+      name: Parsevideo
+  - active: false
+    link: '#隐私保护-tab'
+    name: 隐私保护
+    objects:
+    - description: 5SIM 提供了借助临时虚拟电话号码绕过验证程序的机会，而无需使用个人电话号码。通过在线接收确认码，在网站上注册许多个人资料。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly81c2ltLm5ldC8%3D
+      name: 5SIM
+    - description: Temp Mail 提供临时、安全、匿名、免费、一次性的电子邮件地址。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90ZW1wLW1haWwub3JnLw%3D%3D
+      name: Temp Mail
+    - description: Proton Mail是一个端到端的加密电子邮件服务
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wcm90b24ubWUv
+      name: Proton Mail
+    - description: 保护您的个人电子邮件地址免受垃圾邮件、机器人程序、网络钓鱼和其他在线滥用。临时匿名电子邮件地址-没有承诺，没有风险。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tYWlsLnRtL3poLw%3D%3D
+      name: mail.tm
+    - description: 短信验证码接收平台
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly81c2ltLm5ldC96aA%3D%3D
+      name: 5sim
+    - description: 在 SMS-Activate 的虚拟号码上在线接收短信。 用于注册 600 多种服务的一次性号码。 即时短信发送和低价格Receive
+        sms online on virtual numbers of SMS-Activate. Disposable numbers for registration
+        on more than 600 services. Immediate sms delivery and low prices
+      link: https://sms-activate.org/?ref=2752770
+      name: SMS-activate
+    - description: 全球付费接码平台
+      link: https://toolsdar.cn/go/?url=IGh0dHBzOi8vc21zLW1hbi5jb20vY24%2FcmVmPXlVdlVhNGFsUlFKdSA%3D
+      name: SMS-man
+    - description: 不想暴露私人邮箱地址，你可以用这些去注册网站，保护你的真实邮箱。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly84MTY0LmNjLw%3D%3D
+      name: mfk.app
+    - description: 虚拟号码免费在线接收您的短信！无需注册！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cucmVjZWl2ZXNtcy5jby8%3D
+      name: Receive SMS
+    - description: 云接码是一个免费短信验证码接收网站,提供有中国、美国、加拿大、香港、英国等多个国家和地区的临时手机号码,方便快捷接收网站和APP注册短信验证码,无需注册,全球通用,完全免费
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95dW5qaWVtYS5uZXQv
+      name: 云接码
+    - description: Receive-Sms-Free.Cc拥有超过200个免费的临时电话号码或虚拟电话号码，包括中国、美国、印度、俄罗斯、英国、加拿大、澳大利亚等国家。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9yZWNlaXZlLXNtcy1mcmVlLmNjLw%3D%3D
+      name: Receive-Sms-Free.CC
+    - description: 33mail - 无限制的免费私人电子邮件地址
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuMzNtYWlsLmNvbS8%3D
+      name: 33mail
+    - description: 临时邮箱
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tYWlsLnRkL3po
+      name: Temp Mail
+    - description: YOPmail 临时邮箱
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy55b3BtYWlsLmNvbS96aC8%3D
+      name: YOPmail
+    - description: 在线生成临时邮箱、十分钟邮箱（10分钟)、临时邮、临时Email、快速注册Email、24小时Mail，开通邮箱最长支持24小时，支持邮件转发，自动刷新！
+      link: https://toolsdar.cn/go/?url=aHR0cDovLzI0bWFpbC5jaGFjdW8ubmV0L3podHc%3D
+      name: 临时邮箱
+    - description: 10分钟临时邮箱
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9yb290c2guY29tLw%3D%3D
+      name: 10分钟邮箱
+    - description: 免费接短信
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly95dW5kdWFueGluLm5ldC8%3D
+      name: 云短信
+    - description: 免费接码平台
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3d3dy54bnNtcy5jb20v
+      name: 小鸟接码
+    - description: 国外接码平台
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9yZWNlaXZlYXNtcy5jb20v
+      name: Receiveasms
+  - active: false
+    link: '#在线工具箱-tab'
+    name: 在线工具箱
+    objects:
+    - description: 工具狗在线工具网是一家免费的在线实用工具网站，为大家提供在线大写一二三四五六七八大九十大写,大写转换器,一键抠图、在线新华字典、在线万年历等功能。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuZ29uZ2p1Z291LmNvbS8%3D
+      name: 工具狗
+    - description: 偷懒工具是生活、学习、工作的必备工具箱。无需下载登录，在线即开即用，提供了各种方便的生活日用工具、图形图像工具，以及各种数学、单位计算换算工具，还有很多文字文本处理、多媒体和编程开发者常用的工具供您免费使用，为您的工作生活加油添瓦！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90b29saWdodC5jbi8%3D
+      name: 偷懒工具
+    - description: PDF文件在线压缩工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9lZnJpY2UuZ2l0aHViLmlvL2NvbXByZXNzLXBkZi8%3D
+      name: PDF压缩 Compress PDF
+    - description: 开发人员工具箱，时间戳转换，json格式化，正则表达式，URLEncode，加密解密，Crontab，websocket，md5编码，base64编码，颜色转换，JSON/YAML/XML转换，AES、DES、RSA，数字进制转换，图片压缩，二维码生成，JavaScript格式化压缩，代码差异对比
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90b29scy5mdW4vaW5kZXguaHRtbA%3D%3D
+      name: ToolsFun
+    - description: 免费的AI写作，PDF，图像和其他在线工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90aW55d293LmNvbS8%3D
+      name: TinyWow
+    - description: 在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90b29sLmx1Lw%3D%3D
+      name: 在线工具
+    - description: ToolFK 免费在线开发工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cudG9vbGZrLmNvbS8%3D
+      name: ToolFK
+    - description: 轻松办公，在线办公工具，包括、图片、数据换算、生活娱乐、教育文本、工具文档、转换、开发工具、视频、PDF转换工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90b29sLmJyb3dzZXIucXEuY29tLw%3D%3D
+      name: 帮小忙
+    - description: 致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuNjd0b29sLmNvbS8%3D
+      name: 即时工具
+    - description: 免费在线软件工具包
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly90aW9tZy5vcmcv
+      name: 太美工具
+  - active: false
+    link: '#其他-tab'
+    name: 其他
+    objects:
+    - description: 输入文本信息生成美化图片
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tZW1vY2FyZC5uZXQv
+      name: Memo Card
+    - description: 安全匿名分享空間，支援圖片, 影片, 音檔分享，結合縮短網址功能，分享就在彈指之間，搭配自動紀錄與整合性後台，簡易直觀的操作方式親近任何使用族群。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tb3JrLnJvL2xpbmsv
+      name: Mork 縮短網址
+    - description: Facebook 视频下载器，在线下载 Facebook 视频
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9mZG93bi5uZXQvIw%3D%3D
+      name: FDOWN
+    - description: M3U8Player 是一款实现 HTTP 实时流客户端的 Chrome 浏览器扩展工具。你可以播放 .m3u8 HTTP Live
+        Streaming (HLS)。它依靠 HTML5视频和媒体源扩展进行播放。它的工作原理是将 MPEG-2 传输流和 AAC/MP3 流转换成 ISO
+        BMFF (MP4) 片段。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9tM3U4cGxheWVyLm9yZy8%3D
+      name: m3u8在线播放器
+    - description: 仅需一个永久链接、永久二维码，聚合你的所有入口，社交账号 店铺带货 网络贴文 你想分享的一切……一次注册，终身受益，永久固定短链接，永久有效二维码
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9saW5rMy5jYy9hdXRoP2lkPWxxZjN6Znlt
+      name: Link3
+    - description: 一款适合现代的有趣的头像生成器。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9wZXJzb25hcy5kcmFmdGJpdC5jb20v
+      name: 头像生成器
+    - description: 猫眼票房分析，提供准确的每日电影实时票房、排片、上座率查询，为电影从业者提供及时、专业的数据分析服务
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9waWFvZmFuZy5tYW95YW4uY29tL2Rhc2hib2FyZA%3D%3D
+      name: 猫眼票房分析
+    - description: 查询中国区所有零售店iPhone15系列库存
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9leWUzLm1lL2lwaG9uZTE1
+      name: iPhone15库存查询
+    - description: 历史往期报纸报刊查询
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9yZWFkZXIuam9qb2thbmJhby5jbi8%3D
+      name: JOJO看报
+    - description: 免费短链接服务，免费生成短链接
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9mZmZmLmltLw%3D%3D
+      name: ffff 短网址
+    - description: 免费在线字帖生成器。本站提供免费的田字、米字、口字格字帖生成及在线打印功能，可生成汉字字帖、汉字拼音字帖、汉字拼音笔顺字帖、拼音字帖、数字加减运算字帖等。完美支持chrome、edge、firefox，以及各种国产现代浏览器。如果您还有其它建议或者需求，请联系276181123@163.com
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYmFiYXdhci5jb20v
+      name: 简明字帖
+    - description: 将您的源代码变成漂亮的图像
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9jaGFsay5pc3Qv
+      name: Chalk
+    - description: 计和制作原创、高质量、有趣的测验，涵盖性格、知识、人际关系等。我们希望通过我们的测验，您可以和朋友一起玩得开心，学到很多有趣的知识，甚至可以更好地了解自己。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cuYXJlYWxtZS5jb20v
+      name: A Real Me 真实的我
+    - description: 二维码/短网址生成器，访问数据分析工具
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly93d3cubWFvbHZkbC5jb20v
+      name: 毛驴短链
+    - description: 支持p2p文件传输，群聊，音视频通话，远程屏幕共享，直播，ai聊天，屏幕录制
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9pbS5pYW10c20uY24v
+      name: tl-rtc-file
+    - description: 将两个emoji组合成一个，有超过30，000种可能的组合！
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9lbW9qaW1peC5hcHAv
+      name: Emojimix
+    - description: Dub是一个开源的链接管理工具，用于现代营销团队创建、共享和跟踪短链接。
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9kdWIuc2gv
+      name: Dub
+    - description: Emoji百科全书📚收录了所有emoji，帮你通过分类或者搜索轻松找到合适的表情符号，并了解各种emoji符号的相关知识和使用情景。最近热门emoji：🍹🐼💑🍱💝⛹️💃🍟🍦
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9lbW9qaXhkLmNvbS8%3D
+      name: EmojiXD
+    - description: GitHub 文件加速，输入GitHub文件地址链接可加速下载
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9naXRodWIudG9vbHNkYXIud29ya2Vycy5kZXYv
+      name: GitHub文件加速
+    - description: 免费和可定制的HTML和CSS UI元素库
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly91aXZlcnNlLmlvLw%3D%3D
+      name: uiverse
+    - description: html+css+js的样式代码
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9uYXZuYXYuY28v
+      name: navnav
+    - description: 免费分享知乎盐选文章
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9vbmVodS54eXov
+      name: 我不是盐神
+    - description: 生成Soft UI CSS 代码
+      link: https://toolsdar.cn/go/?url=aHR0cHM6Ly9uZXVtb3JwaGlzbS5pby8%3D
+      name: Neumorphism.io
+    - description: 395印章生成器是一个在线电子印章,电子公章生成器，比较专业的一个在线电子印章制作平台，而且还是免费的，有各种高级和专业模式，输入公司、章名、编码，支持颜色、旋转、大小、字体调整等等
+      link: https://toolsdar.cn/go/?url=aHR0cDovL3JlZG1pLndvcmsv
+      name: 395印章
+footer_menus:
+  - name: 意见反馈
+    icon: fa fa-bug
+    link: index
+  - name: 网站提交
+    icon: fa fa-external-link
+    link: index
+  - name: 关于本站
+    icon: fa fa-download
+    link: index
+title: 工具指南
+search_placeholder: 请输入搜索内容

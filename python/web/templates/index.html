@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ data.title }}</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="../static/build/images/favicon.ico" type="image/ico" />
+    <!-- Bootstrap -->
+    <link href="../static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../static/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Custom Theme Style -->
+    <link href="../static/build/css/custom.css" rel="stylesheet">
+</head>
+
+<body class="nav-md">
+    <header></header>
+    <main class="content container body">
+        <div class="main_container">
+            <!-- sider navigation -->
+            {% include 'sider_nav.html' %}
+            <!-- /sider navigation -->
+
+            <!-- top navigation -->
+            {% include 'top_nav.html' %}
+            <!-- /top navigation -->
+
+            <!-- page content -->
+            <div class="right_col" role="main">
+                <div class="col-md col-sm">
+                    {% for menu in data.nav_menus %}
+                    <div class="x_panel">
+                        <div class="x_title">
+                            <h2><i class="{{ menu.icon }}"></i> {{ menu.name }}</h2>
+                            <ul class="nav navbar-right panel_toolbox">
+                                <li>
+                                    <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                                </li>
+                            </ul>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="x_content">
+                            <ul class="nav nav-tabs bar_tabs" id="myTab" role="tablist">
+                                {% for tag in menu.tags %}
+                                <li class="nav-item">
+                                    {% if tag.active %}
+                                    <a class="nav-link active" id="{{tag.name}}-tab" data-toggle="tab" href="#{{ tag.name }}"
+                                        role="tab" aria-controls="{{ tag.name }}" aria-selected="true">{{tag.name}}</a>
+                                    {% else %}
+                                    <a class="nav-link" id="{{tag.name}}-tab" data-toggle="tab" href="#{{ tag.name }}"
+                                        role="tab" aria-controls="{{ tag.name }}" aria-selected="true">{{tag.name}}</a>
+                                    {% endif %}    
+                                </li>
+                                {% endfor %}
+                            </ul>
+                            <div class="tab-content" id="myTabContent">
+                                {% for tag in menu.tags %}
+                                {% if tag.active %}
+                                <div class="tab-pane fade show active" id="{{ tag.name }}" role="tabpanel" aria-labelledby="{{ tag.name }}-tab">
+                                {% else %}
+                                <div class="tab-pane fade" id="{{ tag.name }}" role="tabpanel" aria-labelledby="{{ tag.name }}-tab">
+                                {% endif %}
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="x_panel">
+                                                <div class="x_content">
+                                                    <div class="row">
+                                                        {% for object in tag.objects %}
+                                                        <div class="animated flipInY col-lg-3 col-md-3 col-sm-6  ">
+                                                            <div class="tile-stats caption">
+                                                                <a href="{{ object.link }}"><strong>{{ object.name }}</strong></a>
+                                                              <p>{{ object.description }}</p>
+                                                            </div>
+                                                        </div>
+                                                        {% endfor %}
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+        {% include 'footer.html' %}
+        <!-- /footer content -->
+        </div>
+    </main>
+
+    <!-- jQuery -->
+    <script src="../static/jquery/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="../static/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom Theme Scripts -->
+    <script src="../static/build/js/custom.js"></script>
+</body>
+
+</html>

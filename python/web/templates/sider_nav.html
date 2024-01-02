@@ -1,0 +1,48 @@
+<div class="col-md-3 left_col">
+    <div class="left_col scroll-view">
+        <div class="navbar nav_title clearfix" style="border: 0;">
+            <a href="index" class="site_title"><i class="fa fa-paw"></i> <span>{{ data.title }}</span></a>
+        </div>
+        <div class="clearfix"></div>
+        <!-- sidebar navigation menu -->
+        <div id="sidebar-menu" class="main_menu_side hidden-print menu">
+            <div class="menu_section">
+                <ul class="nav side-menu">
+                    {% for menu in data.nav_menus %}
+                    {% if menu.active %}
+                    <li class="active">
+                    {% else %}
+                    <li>
+                    {% endif %}
+                        <a><i class="{{ menu.icon }}"></i>{{ menu.name }}<span class="fa fa-chevron-down"></span></a>
+                        {% if menu.active %}
+                        <ul class="nav child_menu" style="display: block;">
+                        {% else %}
+                        <ul class="nav child_menu">
+                        {% endif %}
+                            {% for tag in menu.tags %}
+                            <li><a href="{{ tag.link }}">{{ tag.name }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <!-- /sidebar navigation menu -->
+
+        <!-- sidebar footer menu -->
+        <div class="sidebar-footer menu">
+            <div class="menu_section">
+              <ul class="nav side-menu">
+                {% for menu in data.footer_menus %}
+                <li>
+                  <a target="_blank" rel="noopener" href="{{ menu.link }}"><i class="{{ menu.icon }}"></i><span>{{ menu.name }}</span></a>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+        </div>
+        <!-- /sidebar footer menu -->
+    </div>
+</div>
