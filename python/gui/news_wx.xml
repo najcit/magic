@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Frame title="热点新闻" width="300" height="500" icon="">
+  <Panel>
+    <StaticText text="头条热搜"/>
+    <TextCtrl name="头条热搜内容" text="头条热搜内容" width="50" height="10" undo="True" autoseparators="False"/>
+    <StaticText text="百度热搜"/>
+    <TextCtrl name="百度热搜内容" text="百度热搜内容" width="50" height="10" undo="True" autoseparators="False"/>
+    <StaticText text="360热搜"/>
+    <TextCtrl name="360热搜内容" text="360热搜内容" width="90" height="10" undo="True" autoseparators="False"/>
+  </Panel>
+</Frame>

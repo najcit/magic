@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window name="window1" title="遮盖条" geometry="600x30" minsize="500x30" icon="strip.ico" bg="red">
+    <frame name="frame1" borderwidth="0" bg="red">
+        <column name="column1" borderwidth="0">
+            <button name="button1" text="置顶/恢复" command="put_top" width="12" height="1"/>
+        </column>
+        <column name="column2" borderwidth="0">
+            <button name="button3" text="颜色" command="choose_color" width="6" height="1"/>
+        </column>
+        <column name="column3" borderwidth="0">
+            <label name="label1" moveable="True" width="300" font="Arial 16 bold" borderwidth="0" bg="red"/>
+        </column>
+    </frame>
+</window>

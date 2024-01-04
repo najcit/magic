@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window name="window1" title="计算器" geometry="300x360" icon="calculator.ico">
+    <frame name="frame1" bg="gray" width="300" height="360">
+        <row>
+            <entry name="entry1" textvariable="input" text="0" width="300" font="Arial 20 bold" justify="right"/>
+        </row>
+        <row bg="blue">
+            <column>
+                <button name="button1" text="%" command="division100" width="6" height="2"/>
+                <button name="button2" text="7" command="num7" width="6" height="2"/>
+                <button name="button3" text="4" command="num4" width="6" height="2"/>
+                <button name="button4" text="1" command="num1" width="6" height="2"/>
+                <button name="button5" text="+/-" command="sign" width="6" height="2"/>
+            </column>
+            <column>
+                <button name="button1" text="CE" command="clear" width="6" height="2"/>
+                <button name="button2" text="8" command="num8" width="6" height="2"/>
+                <button name="button3" text="5" command="num5" width="6" height="2"/>
+                <button name="button4" text="2" command="num2" width="6" height="2"/>
+                <button name="button5" text="0" command="num0" width="6" height="2"/>
+            </column>
+            <column>
+                <button name="button1" text="C" command="reset" width="6" height="2"/>
+                <button name="button2" text="9" command="num9" width="6" height="2"/>
+                <button name="button3" text="6" command="num6" width="6" height="2"/>
+                <button name="button4" text="3" command="num3" width="6" height="2"/>
+                <button name="button5" text="." command="dot" width="6" height="2"/>
+            </column>
+            <column>
+                <button name="button1" text="/" command="division" width="6" height="2"/>
+                <button name="button2" text="x" command="multiply" width="6" height="2"/>
+                <button name="button3" text="-" command="subtract" width="6" height="2"/>
+                <button name="button4" text="+" command="add" width="6" height="2"/>
+                <button name="button6" text="=" command="equal" width="6" height="2" bg="#1C86EE" activebackground="#1E90FF"/>
+            </column>
+        </row>
+    </frame>
+</window>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window name="main_window" title="My Window" geometry="300x400">
+    <frame bg="blue" width="300" height="400">
+        <row bg="yellow" height="60">
+            <column name="column1">
+                <button name="button1" text="Button 1"/>
+            </column>
+            <column bg="gray">
+                <label name="label1" text="Label 1"/>
+                <button name="button2" text="Button 2"/>
+            </column>
+        </row>
+        <row>
+            <column>
+                <entry name="entry1" text="Entry 1"/>
+            </column>
+            <column>
+                <entry name="entry2" text="Entry 2"/>
+            </column>
+        </row>
+        <row>
+            <checkbutton name="checkbutton1" text="checkbutton"/>
+            <radiobutton name="radiobutton1" text="radiobutton"/>
+            <combobox name="combobox1"/>
+        </row>
+    </frame>
+</window>

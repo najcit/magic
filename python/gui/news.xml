@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window title="热点新闻" width="300" height="500" icon="">
+  <label text="头条热搜"/>
+  <text name="头条热搜内容" text="头条热搜内容" width="50" height="10" undo="True" autoseparators="False"/>
+  <label text="百度热搜"/>
+  <text name="百度热搜内容" text="百度热搜内容" width="50" height="10" undo="True" autoseparators="False"/>
+  <label text="360热搜"/>
+  <text name="360热搜内容" text="360热搜内容" width="90" height="10" undo="True" autoseparators="False"/>
+  </window>
